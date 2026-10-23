@@ -1,4 +1,5 @@
 # 忽略构建产物与本机配置
+.tools/
 android/.gradle/
 android/build/
 android/app/build/
