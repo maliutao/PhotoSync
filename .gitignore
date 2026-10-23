@@ -1,0 +1,14 @@
+# 忽略构建产物与本机配置
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/release-key.jks
+android/keystore.properties
+desktop/__pycache__/
+desktop/build/
+desktop/dist/
+desktop/config.json
+desktop/*.spec
+*.pyc
+*.apk
